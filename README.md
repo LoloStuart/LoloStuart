@@ -1,3 +1,4 @@
+![Banner for github profile](https://github.com/LoloStuart/LoloStuart/blob/main/githubBanner.jpg)
 <h1 align="center">Hello 👋, I'm Lauren Stuart</h1>
 <h3 align="center">A fledgling full-stack developer from Michigan, USA.</h3>
 
