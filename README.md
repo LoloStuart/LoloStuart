@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lauren Stuart</h1>
+<h1 align="center">Hello 👋, I'm Lauren Stuart</h1>
 <h3 align="center">A fledgling full-stack developer from Michigan, USA.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
